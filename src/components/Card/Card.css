@@ -120,6 +120,12 @@
     color: white;
 }
 
+@media (min-width: 1577px) {
+    .card {
+        width: 400px;
+    }
+}
+
 
 @media (min-width: 1024) {
     .card {
